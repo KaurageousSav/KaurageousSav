@@ -6,10 +6,10 @@
 - 📫 How to reach me savleenkaur03@gmail.com
 - ⚡ Fun fact I love dancing on Bhangra beats, travelling, certified with social upliftment activities like NSS(Government of India)
 
-<details>
+<!-- <details>
   Connect with me:
   https://www.linkedin.com/in/savleen-kaur-97a563166/
-  
+   -->
   
 
 <!---
